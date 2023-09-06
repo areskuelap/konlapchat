@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.ysis.konlap",
+        "sha256_cert_fingerprints": ["18:2A:54:FE:CD:E8:DE:64:BA:66:B4:B7:AF:54:B7:4C:EC:20:5F:0E:9E:6B:8B:CB:11:09:C8:5D:08:ED:52:11"]
+      }
+    }]
